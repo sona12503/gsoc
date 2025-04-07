@@ -1,0 +1,12 @@
+**Extending SpikeWrap's Test Functionality – GSoC 2025**
+
+I am Sonam Devi, a third-year Bioengineering student at IIT Mandi with expertise in Python, machine learning, and HPC-based workflows. Through GSoC 2025, I aim to enhance the testing framework of **SpikeWrap**, an experimental neuroscience pipeline, by developing a comprehensive test suite ensuring reliability across various hardware environments.
+
+Key focus areas include:
+
+* **Building automated test cases** for core functions, pipeline execution, and GPU/SLURM-based scheduling.
+* **Optimizing performance & debugging** tools for failed test cases.
+* **Implementing CI/CD** automation for continuous testing.
+* **Ensuring cross-platform compatibility** and robust documentation.
+
+With prior experience in large datasets, open-source contributions, and computational neuroscience, I am dedicated to making SpikeWrap more efficient and accessible for researchers worldwide.
